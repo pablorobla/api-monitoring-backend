@@ -56,7 +56,7 @@ La API expone varios endpoints REST para consultar el estado y el histórico de 
     - código de estado HTTP
     - tiempo de respuesta
     - resultado (success / failure)
-    - 
+      
 ## Decisiones técnicas
 
 - **Uso de un scheduler**  
